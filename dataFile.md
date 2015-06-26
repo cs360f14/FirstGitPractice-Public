@@ -5,6 +5,7 @@
 * Star Wars
 * Godzilla
 * The Last Unicorn
+* The Unicorn
 * The First Unicorn
 * Moulin Rouge
 * The Last Samurai
